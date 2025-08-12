@@ -60,7 +60,7 @@ The processed files for Data Landing stage can be used as templates for future d
 A data dictionary describing the relevant attributes of OPAL V1 will be available shortly.
 
 ## Standing Up OPAL v1
-Documentation for database ingest and processing, as well as standing up OPAL va, can be found in the following Github repository (https://github.com/RENCI/pfasdata-backend). 
+Documentation for database ingest and processing, as well as standing up OPAL va, can be found in the following Github repository (https://github.com/RENCI/opal-backend). 
 [![OPAL Backend Repo](images/opalbackendrepo.png)](https://github.com/RENCI/opal-backend)
 
 ## Database Backups and Data Integrity
