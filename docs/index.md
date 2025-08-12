@@ -12,7 +12,7 @@ Use [https://pfas-app-prod.renci.unc.edu/](https://pfas-app-prod.renci.unc.edu/)
 ## PFAS Observations Data Model
 The PFAS Observations Data Model is based on the Observational Data Model 2 (ODM2) and consists of two elements.  The first element is the landing data model.  This might be termed the pre-database ingest stage of data ingest.  Pre-processed files are provided for the Data Landing stage. More information on workflow can be found in the Data Processing Flow section below. The second element is the more detailed data model for the relational database that provides data to the front-end client.
 
-[![PFAS Observations Data Model](images/pfasobsdatamodelv4.1.jpg)](miscfiles/PfasObservationDataModelV4.1.pdf)
+[![PFAS Observations Data Model](images/OPAL-DataModel-V4.3-07_16_25.jpg)](miscfiles/OPAL-DataModel-V4.3-07_16_25.pdf)
 
 For more information on ODM2 please consult [https://www.odm2.org](https://www.odm2.org/).
 
@@ -61,7 +61,7 @@ A data dictionary describing the relevant attributes of OPAL V1 will be availabl
 
 ## Standing Up OPAL v1
 Documentation for database ingest and processing, as well as standing up OPAL va, can be found in the following Github repository (https://github.com/RENCI/pfasdata-backend). 
-[![OPAL Backend Repo](images/opalbackendrepo.jpg)](https://github.com/RENCI/pfasdata-backend)
+[![OPAL Backend Repo](images/opalbackendrepo.png)](https://github.com/RENCI/opal-backend)
 
 ## Database Backups and Data Integrity
 To maintain data integrity and security, regular backups are made of the database. For more information see details in Github repository reference in previous section.
